@@ -36,7 +36,7 @@ You work for the OilyGiant mining company. Your task is to find the best place f
 <li>Provide findings: suggest a region for development of oil wells and justify the choice</ul></li>
 <br> 
 
-Data description
+Data description:<br>
 Geological exploration data for the three regions are stored in files:<br>
 geo_data_0.csv. download dataset<br>
 geo_data_1.csv. download dataset<br>
@@ -45,7 +45,7 @@ id — unique oil well identifier<br>
 f0, f1, f2 - three features of points (their specific meaning is unimportant, but the features themselves are significant)<br>
 product — volume of reserves in the oil well (thousand barrels)<br>
 
-Conditions:
+Conditions:<br>
 Only linear regression is suitable for model training (the rest are not sufficiently predictable)<br>
 When exploring the region, a study of 500 points is carried with picking the best 200 points for the profit calculation<br>
 The budget for development of 200 oil wells is 100 USD million<br>
