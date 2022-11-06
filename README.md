@@ -18,14 +18,13 @@ You work for the OilyGiant mining company. Your task is to find the best place f
    <li>Print the average volume of predicted reserves and model RMSE</li>
    <li>Analyze the results</ul></li>
 <br>   
-3.Prepare for profit calculation:</h2>
-
+3.Prepare for profit calculation:
    <ul><li>Store all key values for calculations in separate variables</li>
    <li>Calculate the volume of reserves sufficient for developing a new well without losses. Compare the obtained value with the average volume of reserves in each region</li>
    <li>Provide the findings about the preparation for profit calculation step</ul></li>
 <br>
-4.Write a function to calculate profit from a set of selected oil wells and model predictions:
 
+4.Write a function to calculate profit from a set of selected oil wells and model predictions:
  <ul><li>Pick the wells with the highest values of predictions</li>
  <li>Summarize the target volume of reserves in accordance with these predictions</li>
  <li>Provide findings: suggest a region for oil wells' development and justify the choice. Calculate the profit for the obtained volume of reserves</ul></li>
