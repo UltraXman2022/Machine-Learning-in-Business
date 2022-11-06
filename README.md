@@ -16,7 +16,8 @@ You work for the OilyGiant mining company. Your task is to find the best place f
    <li>Train the model and make predictions for the validation set</li>
    <li>Save the predictions and correct answers for the validation set</li>
    <li>Print the average volume of predicted reserves and model RMSE</li>
-   <li>Analyze the results.</ul></li>
+   <li>Analyze the results</ul></li>
+   
    
 3.Prepare for profit calculation:</h2>
    <ul><li>Store all key values for calculations in separate variables</li>
