@@ -9,17 +9,19 @@ You work for the OilyGiant mining company. Your task is to find the best place f
 <li>You have data on oil samples from three regions. Parameters of each oil well in the region are already known. Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
 
 <h2>Project instructions</h2>
-   <ol><li>Download and prepare the data. Explain the procedure</li>
-   <li>Train and test the model for each region:</li>
+1.Download and prepare the data. Explain the procedure
+   
+2.Train and test the model for each region:
    <ol><li>Split the data into a training set and validation set at a ratio of 75:25</li>
    <li>Train the model and make predictions for the validation set</li>
    <li>Save the predictions and correct answers for the validation set</li>
    <li>Print the average volume of predicted reserves and model RMSE</li>
-   <li>Analyze the results.</ol></li></ol></li>
-<h2>Prepare for profit calculation:</h2>
-3.1. Store all key values for calculations in separate variables.
-3.2. Calculate the volume of reserves sufficient for developing a new well without losses. Compare the obtained value with the average volume of reserves in each region.</ul></li>
-3.3. Provide the findings about the preparation for profit calculation step.
+   <li>Analyze the results.</ol></li>
+   
+3.Prepare for profit calculation:</h2>
+   <ol><li>Store all key values for calculations in separate variables</li>
+   <li>Calculate the volume of reserves sufficient for developing a new well without losses. Compare the obtained value with the average volume of reserves in each region</li>
+   <li>Provide the findings about the preparation for profit calculation step</ol></li>
 Write a function to calculate profit from a set of selected oil wells and model predictions:
 4.1. Pick the wells with the highest values of predictions.
 4.2. Summarize the target volume of reserves in accordance with these predictions
