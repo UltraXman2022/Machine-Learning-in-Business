@@ -25,8 +25,8 @@ You work for the OilyGiant mining company. Your task is to find the best place f
 <br>
 4.Write a function to calculate profit from a set of selected oil wells and model predictions:
  <ul><li>Pick the wells with the highest values of predictions</li>
- <li>4.2. Summarize the target volume of reserves in accordance with these predictions</li>
- <li>4.3. Provide findings: suggest a region for oil wells' development and justify the choice. Calculate the profit for the obtained volume of reserves</ul></li>
+ <li>Summarize the target volume of reserves in accordance with these predictions</li>
+ <li>Provide findings: suggest a region for oil wells' development and justify the choice. Calculate the profit for the obtained volume of reserves</ul></li>
 <br>   
 Calculate risks and profit for each region:
 5.1. Use the bootstrapping technique with 1000 samples to find the distribution of profit.
