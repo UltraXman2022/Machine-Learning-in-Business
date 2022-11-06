@@ -11,7 +11,7 @@ You work for the OilyGiant mining company. Your task is to find the best place f
 <h2>Project instructions</h2>
 1.Download and prepare the data. Explain the procedure
    
-2.Train and test the model for each region:<br><br>
+2.Train and test the model for each region:<br>
 <ul><li>Split the data into a training set and validation set at a ratio of 75:25</li>
    <li>Train the model and make predictions for the validation set</li>
    <li>Save the predictions and correct answers for the validation set</li>
