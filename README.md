@@ -22,17 +22,18 @@ You work for the OilyGiant mining company. Your task is to find the best place f
    <li>Calculate the volume of reserves sufficient for developing a new well without losses. Compare the obtained value with the average volume of reserves in each region</li>
    <li>Provide the findings about the preparation for profit calculation step</ul></li>
 <br>
+
 4.Write a function to calculate profit from a set of selected oil wells and model predictions:<br><br>
  <ul><li>Pick the wells with the highest values of predictions</li>
  <li>Summarize the target volume of reserves in accordance with these predictions</li>
  <li>Provide findings: suggest a region for oil wells' development and justify the choice. Calculate the profit for the obtained volume of reserves</ul></li>
 <br>   
+
 5.Calculate risks and profit for each region:<br>
 <ul><li>Use the bootstrapping technique with 1000 samples to find the distribution of profit</li>
 <li>Find average profit, 95% confidence interval and risk of losses. Loss is negative profit, calculate it as a probability and then express as a percentage</li>
 <li>Provide findings: suggest a region for development of oil wells and justify the choice</ul></li>
 <br> 
-
 
 Data description
 Geological exploration data for the three regions are stored in files:
