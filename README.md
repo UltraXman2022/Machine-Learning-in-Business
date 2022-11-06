@@ -31,6 +31,7 @@ You work for the OilyGiant mining company. Your task is to find the best place f
 <ul><li>Use the bootstrapping technique with 1000 samples to find the distribution of profit</li>
 <li>Find average profit, 95% confidence interval and risk of losses. Loss is negative profit, calculate it as a probability and then express as a percentage</li>
 <li>Provide findings: suggest a region for development of oil wells and justify the choice</ul></li>
+<br> 
 
 
 Data description
