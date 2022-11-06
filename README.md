@@ -17,8 +17,7 @@ You work for the OilyGiant mining company. Your task is to find the best place f
    <li>Save the predictions and correct answers for the validation set</li>
    <li>Print the average volume of predicted reserves and model RMSE</li>
    <li>Analyze the results</ul></li>
-   
-   
+<br>   
 3.Prepare for profit calculation:</h2>
    <ul><li>Store all key values for calculations in separate variables</li>
    <li>Calculate the volume of reserves sufficient for developing a new well without losses. Compare the obtained value with the average volume of reserves in each region</li>
