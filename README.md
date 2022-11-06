@@ -41,9 +41,10 @@ Geological exploration data for the three regions are stored in files:<br>
 geo_data_0.csv. download dataset<br>
 geo_data_1.csv. download dataset<br>
 geo_data_2.csv. download dataset<br>
-id — unique oil well identifier
-f0, f1, f2 — three features of points (their specific meaning is unimportant, but the features themselves are significant)
-product — volume of reserves in the oil well (thousand barrels).
+id — unique oil well identifier<br>
+f0, f1, f2 - three features of points (their specific meaning is unimportant, but the features themselves are significant)<br>
+product — volume of reserves in the oil well (thousand barrels)<br>
+
 Conditions:
 Only linear regression is suitable for model training (the rest are not sufficiently predictable).
 When exploring the region, a study of 500 points is carried with picking the best 200 points for the profit calculation.
