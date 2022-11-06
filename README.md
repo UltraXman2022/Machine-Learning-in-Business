@@ -17,13 +17,14 @@ You work for the OilyGiant mining company. Your task is to find the best place f
    <li>Save the predictions and correct answers for the validation set</li>
    <li>Print the average volume of predicted reserves and model RMSE</li>
    <li>Analyze the results</ul></li><br>
-3.Prepare for profit calculation:<br><br>
+   
+3.Prepare for profit calculation:<br>
 <ul><li>Store all key values for calculations in separate variables</li>
    <li>Calculate the volume of reserves sufficient for developing a new well without losses. Compare the obtained value with the average volume of reserves in each region</li>
    <li>Provide the findings about the preparation for profit calculation step</ul></li>
 <br>
 
-4.Write a function to calculate profit from a set of selected oil wells and model predictions:<br><br>
+4.Write a function to calculate profit from a set of selected oil wells and model predictions:<br>
  <ul><li>Pick the wells with the highest values of predictions</li>
  <li>Summarize the target volume of reserves in accordance with these predictions</li>
  <li>Provide findings: suggest a region for oil wells' development and justify the choice. Calculate the profit for the obtained volume of reserves</ul></li>
@@ -36,10 +37,10 @@ You work for the OilyGiant mining company. Your task is to find the best place f
 <br> 
 
 Data description
-Geological exploration data for the three regions are stored in files:
-geo_data_0.csv. download dataset
-geo_data_1.csv. download dataset
-geo_data_2.csv. download dataset
+Geological exploration data for the three regions are stored in files:<br>
+geo_data_0.csv. download dataset<br>
+geo_data_1.csv. download dataset<br>
+geo_data_2.csv. download dataset<br>
 id — unique oil well identifier
 f0, f1, f2 — three features of points (their specific meaning is unimportant, but the features themselves are significant)
 product — volume of reserves in the oil well (thousand barrels).
