@@ -10,12 +10,12 @@ You work for the OilyGiant mining company. Your task is to find the best place f
 
 <h2>Project instructions</h2>
    <ol><li>Download and prepare the data. Explain the procedure</li>
-   <li>2.Train and test the model for each region:</li>
-   <ol><li>2.1. Split the data into a training set and validation set at a ratio of 75:25</li>
-   <li>2.2. Train the model and make predictions for the validation set</li>
-   <li>2.3. Save the predictions and correct answers for the validation set</li>
-   <li>2.4. Print the average volume of predicted reserves and model RMSE</li>
-   <li>2.5. Analyze the results.</ol></li></ol></li>
+   <li>Train and test the model for each region:</li>
+   <ol><li>Split the data into a training set and validation set at a ratio of 75:25</li>
+   <li>Train the model and make predictions for the validation set</li>
+   <li>Save the predictions and correct answers for the validation set</li>
+   <li>Print the average volume of predicted reserves and model RMSE</li>
+   <li>Analyze the results.</ol></li></ol></li>
 <h2>Prepare for profit calculation:</h2>
 3.1. Store all key values for calculations in separate variables.
 3.2. Calculate the volume of reserves sufficient for developing a new well without losses. Compare the obtained value with the average volume of reserves in each region.</ul></li>
